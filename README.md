@@ -12,7 +12,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-It is GNU to be honest...
+It is AGPL to be honest...
 
 ## Checklist
 - [X] Base OS
